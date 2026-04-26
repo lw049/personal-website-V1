@@ -1,8 +1,11 @@
-$brand-color:         #fede00;
-$highlight:           lighten($brand-color, 35%);
-$text-color:          #0b0404;
-$muted-text-color:    #64644B;
-$font-family:         "EB Garamond", Garamond, "Times New Roman", serif;
+$brand-color:         #FAF2EE;
+$highlight:           #E4CCBF;
+$text-color:          #221208;
+$muted-text-color:    #786050;
+$accent-color:        #B83020;
+
+$font-family:         'Fraunces', Georgia, serif;
+$heading-font:        'Syne', 'Helvetica Neue', sans-serif;
 
 $on-bigphone:         375px;
 $on-tablet:           768px;
